@@ -66,4 +66,3 @@ SMTP_PASSWORD=sua_senha_de_email
 </ul>
 <p class="has-line-data" data-line-start="70" data-line-end="71">Sinta-se à vontade para modificar e personalizar o script de acordo com suas necessidades. Se encontrar algum problema ou tiver sugestões de melhorias, por favor, abra um problema ou envie uma solicitação de pull.</p>
 <hr>
-<p class="has-line-data" data-line-start="74" data-line-end="75"><strong>Observação:</strong> Este documento foi formatado para visualização no GitHub. Se você deseja convertê-lo para HTML, pode usar ferramentas online como <a href="https://dillinger.io/">Dillinger</a> ou <a href="https://stackedit.io/">StackEdit</a>. Copie o conteúdo acima e cole em uma dessas ferramentas para gerar um HTML formatado.</p>
